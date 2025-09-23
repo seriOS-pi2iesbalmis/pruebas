@@ -1,3 +1,3 @@
-# Pruebas de colaboración - Proyecto del Equipo Alfa
+# Pruebas de colaboración - Proyecto de SeriOS
 
 
