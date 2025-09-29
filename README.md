@@ -1,2 +1,3 @@
-# pruebas
-Repositorio para practicar el flujo de Git
+# Pruebas de colaboración - Proyecto de SeriOS
+
+
