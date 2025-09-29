@@ -6,8 +6,8 @@
 
 \* Mi lenguaje favorito es Kotlin.
 
-<<<<<<< HEAD
 \* Me gusta leer.
 
-=======
->>>>>>> ivan
+\* Me encanta comer
+
+* Me gusta la fiesta
