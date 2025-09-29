@@ -6,3 +6,5 @@
 
 \* Y hacer bicicleta.
 
+\* Me gusta andar y correr 
+
